@@ -1,0 +1,50 @@
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\bin\Debug\Kütüphane Sistemi.exe.config
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\bin\Debug\Kütüphane Sistemi.exe
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\bin\Debug\Kütüphane Sistemi.pdb
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi.csprojAssemblyReference.cache
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\MainWindow.g.cs
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\App.g.cs
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi_MarkupCompile.cache
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi_MarkupCompile.lref
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\MainWindow.baml
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi.g.resources
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane_Sistemi.Properties.Resources.resources
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi.csproj.GenerateResource.cache
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi.exe
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi.pdb
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Books.g.cs
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Books.baml
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\TeacherApproval.g.cs
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\TeacherApproval.baml
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\BookApproval.g.cs
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\BookApproval.baml
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\limits.g.cs
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\limits.baml
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\OwnedBooks.g.cs
+C:\Users\shafak\source\repos\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\OwnedBooks.baml
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\bin\Debug\Kütüphane Sistemi.exe.config
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\bin\Debug\Kütüphane Sistemi.exe
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\bin\Debug\Kütüphane Sistemi.pdb
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi.csproj.AssemblyReference.cache
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\BookApproval.g.cs
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Books.g.cs
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\limits.g.cs
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\MainWindow.g.cs
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\OwnedBooks.g.cs
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\TeacherApproval.g.cs
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\App.g.cs
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi_MarkupCompile.cache
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi_MarkupCompile.lref
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\BookApproval.baml
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Books.baml
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\limits.baml
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\MainWindow.baml
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\OwnedBooks.baml
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\TeacherApproval.baml
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi.g.resources
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane_Sistemi.Properties.Resources.resources
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi.csproj.GenerateResource.cache
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi.exe
+C:\Users\safak\Desktop\All Projects\Library System\Kütüphane Sistemi\Kütüphane Sistemi\obj\Debug\Kütüphane Sistemi.pdb
